@@ -14,6 +14,12 @@
     "next": "14.0.4"
   },
   "devDependencies": {
+<<<<<<< HEAD
+=======
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+>>>>>>> cff892df6d10da4b461b00b130daa61c05700192
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
   }
